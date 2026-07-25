@@ -134,18 +134,6 @@ Application Screenshots:
 8. User Profile
    <img width="1488" height="590" alt="image" src="https://github.com/user-attachments/assets/a3b2c6d8-3b91-49bf-bccd-a54e94688691" />
 
-
- How to Run the Project
-1. Clone the repository
-git clone https://github.com/seharareej792-boop/Pakistan-Explorer.git
-2. Open the project
-cd pakistan-ai-explorer
-3. Install dependencies
-npm install
-4. Start the development server
-npm run dev
-5. Open the browser
-http://localhost:5173
  
 Problem Solved
 
