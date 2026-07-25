@@ -1,4 +1,4 @@
-<img width="1466" height="657" alt="image" src="https://github.com/user-attachments/assets/372012db-2fb6-4bf1-82e2-021f5304f83a" />Pakistan AI Explorer
+Pakistan AI Explorer
 
 AI-Powered Travel Planning and Tourism Discovery Platform
 
@@ -149,10 +149,4 @@ Pakistan AI Explorer reduces the time and effort required to plan trips by combi
  
 Areej
 
-===============
-PROJECT LINK
-===============
-
-💻 GitHub Repository URL:
-
-This README matches the assignment requirements shown in your screenshots and should satisfy the requested sections.
+💻 GitHub Repository URL:https://github.com/seharareej792-boop/Pakistan-Explorer.git
