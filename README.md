@@ -6,6 +6,7 @@ Pakistan AI Explorer is an AI-powered travel planning application designed to he
 The app solves the common problem that travelers often spend hours searching different websites for tourist attractions, hotels, travel costs, and trip planning. Pakistan AI Explorer brings everything together in one intelligent platform.
 
 Target Users
+
 Tourists
 Students
 Families
@@ -13,50 +14,83 @@ Adventure travelers
 Anyone planning to explore Pakistan
 
 Live Application
+
 Lovable Live URL:https://explore-pakistan-ai.lovable.app
 Vercel URL:https://explore-pakistan-ai.vercel.app
 
 Features:
+
 Pakistan AI Explorer includes the following features:
+
 Explore 500+ tourist locations across Pakistan
+
 Search cities, valleys, forts and provinces
+
 AI Trip Planner
+
 Personalized travel itinerary generation
+
 Budget Calculator
+
 Travel cost estimation
+
 Hotel recommendations
+
 Food recommendations
+
 Hidden Gems explorer
+
 Province-wise tourist locations
+
 Travel statistics dashboard
+
 Save favourite destinations
+
 User Profile & Preferences
+
 Responsive modern interface
+
 Fast search functionality
 
 AI Feature:
+
 AI Travel Planner:
+
 The AI Planner helps users generate personalized travel plans.
+
 Users enter:
+
 Starting city
+
 Destination
+
 Budget
+
 Number of travel days
+
 Travel style
 
 The AI generates:
+
 Day-wise itinerary
+
 Hotel suggestions
+
 Food recommendations
+
 Budget allocation
+
 Estimated transportation cost
+
 Complete travel plan
 
  AI System Prompt:
+ 
 The application uses the following instruction for the AI:
 > You are an expert Pakistan travel assistant. Create personalized travel itineraries based on the user's destination, budget, travel duration, and travel style. Recommend tourist attractions, hotels, local food, transportation options, hidden gems, and provide an estimated budget breakdown. Keep recommendations practical, safe, and suitable for travelers visiting Pakistan.
 
 Technologies Used:
+
 Lovable AI
 React
 TypeScript
@@ -97,7 +131,7 @@ Application Screenshots:
 
  How to Run the Project
 1. Clone the repository
-git clone 
+git clone https://github.com/seharareej792-boop/Pakistan-Explorer.git
 2. Open the project
 cd pakistan-ai-explorer
 3. Install dependencies
@@ -122,7 +156,7 @@ Final AI Application Project
 📌 PROJECT LINKS
 ========================================
 
-💻 GitHub Repository URL:
+💻 GitHub Repository URL:https://github.com/seharareej792-boop/Pakistan-Explorer.git
 
 
 
