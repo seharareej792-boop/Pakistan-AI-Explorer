@@ -1,7 +1,7 @@
-<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/e9e4633b-6b25-4199-8354-4aaedd75a46d" />Pakistan AI Explorer
+Pakistan AI Explorer
+
 AI-Powered Travel Planning and Tourism Discovery Platform
 
-About the Project
 Pakistan AI Explorer is an AI-powered travel planning application designed to help travelers discover Pakistan's beautiful destinations, estimate travel expenses, and generate personalized travel itineraries.
 The app solves the common problem that travelers often spend hours searching different websites for tourist attractions, hotels, travel costs, and trip planning. Pakistan AI Explorer brings everything together in one intelligent platform.
 
