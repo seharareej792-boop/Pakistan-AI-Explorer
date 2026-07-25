@@ -148,8 +148,8 @@ Before running the project, make sure you have the following installed:
 
 Clone the Repository
 
-git clone https://github.com/seharareej792-boop/Pakistan-Explorer.git
-cd Pakistan-Explorer
+git clone https://github.com/seharareej792-boop/Pakistan-AI-Explorer.git
+cd Pakistan-AI-Explorer
 
 Install Dependencies
 
@@ -183,4 +183,4 @@ Pakistan AI Explorer reduces the time and effort required to plan trips by combi
  
 Areej
 
-💻 GitHub Repository URL:https://github.com/seharareej792-boop/Pakistan-Explorer.git
+💻 GitHub Repository URL: https://github.com/seharareej792-boop/Pakistan-AI-Explorer.git
