@@ -21,7 +21,7 @@ Live Application
 
 Lovable Live URL:https://explore-pakistan-ai.lovable.app
 
-Vercel URL: https://pakistan-ai-explorer.vercel.app
+Vercel URL: https://explore-pakistan-ai.vercel.app/
 
 Features:
 
