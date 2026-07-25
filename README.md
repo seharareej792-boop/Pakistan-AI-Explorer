@@ -8,14 +8,19 @@ The app solves the common problem that travelers often spend hours searching dif
 Target Users
 
 Tourists
+
 Students
+
 Families
+
 Adventure travelers
+
 Anyone planning to explore Pakistan
 
 Live Application
 
 Lovable Live URL:https://explore-pakistan-ai.lovable.app
+
 Vercel URL:https://explore-pakistan-ai.vercel.app
 
 Features:
@@ -118,16 +123,17 @@ Application Screenshots:
    <img width="1428" height="577" alt="image" src="https://github.com/user-attachments/assets/869e1183-b04c-499b-baa0-b4a384312201" />
 
 5. Hidden Gems
-   <img width="1364" height="612" alt="image" src="https://github.com/user-attachments/assets/92cb81fe-a63d-4b40-9c6e-b1beb4ed7a2a" />
+   <img width="1364" height="612" alt="image" src="https://github.com/user-attachments/assets/0296cb2c-4223-4749-819e-af322c9ff183" />
 
 6. Saved
-  <img width="1321" height="587" alt="image" src="https://github.com/user-attachments/assets/b70437b8-e3a7-475c-8b3e-92e07ba0f5d7" />
+   <img width="1321" height="587" alt="image" src="https://github.com/user-attachments/assets/4e0308e5-c423-4a12-b3b4-4b70235c2164" />
 
 7. Statistics Dashboard
-   <img width="1563" height="692" alt="image" src="https://github.com/user-attachments/assets/3abecfa1-c670-47fe-bb9d-090d2d58f3d3" />
+   <img width="1563" height="692" alt="image" src="https://github.com/user-attachments/assets/b3c72b9a-8967-4657-97b3-703ef2af2da3" />
 
 8. User Profile
-   <img width="1488" height="590" alt="image" src="https://github.com/user-attachments/assets/d81e0919-31d4-40d9-bc96-ea82df5e8e3b" />
+   <img width="1488" height="590" alt="image" src="https://github.com/user-attachments/assets/a3b2c6d8-3b91-49bf-bccd-a54e94688691" />
+
 
  How to Run the Project
 1. Clone the repository
