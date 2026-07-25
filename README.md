@@ -1,4 +1,4 @@
-Pakistan AI Explorer
+<img width="1466" height="657" alt="image" src="https://github.com/user-attachments/assets/372012db-2fb6-4bf1-82e2-021f5304f83a" />Pakistan AI Explorer
 
 AI-Powered Travel Planning and Tourism Discovery Platform
 
@@ -104,30 +104,30 @@ GPT-based AI Model (through Lovable AI)
 
 Application Screenshots:
 1. Home Page
-<img width="1540" height="711" alt="image" src="https://github.com/user-attachments/assets/546087af-2067-440c-990f-a04c9bbc1343" />
+<img width="1468" height="627" alt="image" src="https://github.com/user-attachments/assets/4003f1cd-2dbc-4d91-ac7c-cb75a10248be" />
 
 2. Explore
-<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/8c979a22-50a5-43a2-9dc2-1a34b2356607" />
+   <img width="1495" height="659" alt="image" src="https://github.com/user-attachments/assets/2675fb79-f9e0-4186-98cc-95f77817c54c" />
 
 3. AI Planner
-<img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/00f00a4e-b1b1-4056-9e87-d4d5151e2d04" />
-<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/e6632131-3ded-4103-a197-d1ebeeeece7d" />
-<img width="1600" height="698" alt="image" src="https://github.com/user-attachments/assets/72a2e701-a085-4790-afa3-2de2119604cf" />
+   <img width="1515" height="565" alt="image" src="https://github.com/user-attachments/assets/f4d22306-4b66-432a-82ad-c68aaf99c10b" />
+<img width="1466" height="657" alt="image" src="https://github.com/user-attachments/assets/a3196b45-e5b2-4908-a1ab-8a8bc4142cd7" />
+<img width="1448" height="612" alt="image" src="https://github.com/user-attachments/assets/a2049b59-af8f-4c01-bcfc-f67f462da9ac" />
 
 4. Calculator
-<img width="1600" height="670" alt="image" src="https://github.com/user-attachments/assets/54ceb98f-8abc-4323-b505-43fc9e5434e8" />
+   <img width="1428" height="577" alt="image" src="https://github.com/user-attachments/assets/869e1183-b04c-499b-baa0-b4a384312201" />
 
 5. Hidden Gems
-<img width="1442" height="669" alt="image" src="https://github.com/user-attachments/assets/0b530926-4a1a-4bed-9177-fdfa18bef31c" />
+   <img width="1364" height="612" alt="image" src="https://github.com/user-attachments/assets/92cb81fe-a63d-4b40-9c6e-b1beb4ed7a2a" />
 
 6. Saved
-<img width="1400" height="651" alt="image" src="https://github.com/user-attachments/assets/e39deb70-c96a-4d89-b53d-f3f204a8ebad" />
+  <img width="1321" height="587" alt="image" src="https://github.com/user-attachments/assets/b70437b8-e3a7-475c-8b3e-92e07ba0f5d7" />
 
 7. Statistics Dashboard
-<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/7e5c78c7-a0f6-463e-b126-8b5d074e8b2d" />
+   <img width="1563" height="692" alt="image" src="https://github.com/user-attachments/assets/3abecfa1-c670-47fe-bb9d-090d2d58f3d3" />
 
 8. User Profile
-<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/c8643df4-6166-408a-af51-02862bb809f9" />
+   <img width="1488" height="590" alt="image" src="https://github.com/user-attachments/assets/d81e0919-31d4-40d9-bc96-ea82df5e8e3b" />
 
  How to Run the Project
 1. Clone the repository
@@ -140,26 +140,19 @@ npm install
 npm run dev
 5. Open the browser
 http://localhost:5173
-
- GitHub Repository
  
 Problem Solved
 
 Pakistan AI Explorer reduces the time and effort required to plan trips by combining destination discovery, travel budgeting, hotel recommendations, and AI-powered itinerary generation into one easy-to-use application.
 
  Developed By
+ 
 Areej
 
-Final AI Application Project
+===============
+PROJECT LINK
+===============
 
-========================================
-📌 PROJECT LINKS
-========================================
-
-💻 GitHub Repository URL:https://github.com/seharareej792-boop/Pakistan-Explorer.git
-
-
-
-Public GitHub repository and live deployed application are included. Please refer to the README for complete project documentation, screenshots, setup instructions, and AI feature details.
+💻 GitHub Repository URL:
 
 This README matches the assignment requirements shown in your screenshots and should satisfy the requested sections.
