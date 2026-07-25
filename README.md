@@ -134,6 +134,46 @@ Application Screenshots:
 8. User Profile
    <img width="1488" height="590" alt="image" src="https://github.com/user-attachments/assets/a3b2c6d8-3b91-49bf-bccd-a54e94688691" />
 
+How To Run The Project:
+
+A strong project deserves clear documentation. Follow these steps to run the application locally:
+
+Prerequisites
+
+Before running the project, make sure you have the following installed:
+
+- Node.js (Latest LTS Version)
+- npm or yarn
+- Git
+
+Clone the Repository
+
+git clone https://github.com/seharareej792-boop/Pakistan-Explorer.git
+cd Pakistan-Explorer
+
+Install Dependencies
+
+npm install
+
+Start the Development Server
+
+npm run dev
+
+After running `npm run dev`, open the local URL shown in the terminal to view the application in your browser.
+
+Build for Production
+
+npm run build
+
+Preview Production Build
+
+npm run preview
+
+The application should now be running successfully.
+
+Why This Project Matters
+
+This project was designed to demonstrate practical problem-solving through modern web technologies and AI-powered features. It focuses on delivering an intuitive user experience, useful functionality, and a clean interface while showcasing skills in frontend development, deployment, and documentation.
  
 Problem Solved
 
