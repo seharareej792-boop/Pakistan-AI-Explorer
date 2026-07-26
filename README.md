@@ -1,13 +1,13 @@
-Pakistan AI Explorer
+# Pakistan AI Explorer
 
-App Name
+## App Name
 
 Pakistan AI Explorer
 
 An AI-powered travel planning platform that helps users discover tourist destinations across Pakistan, estimate travel costs, explore hidden gems, and generate personalized travel itineraries.
 
 
- *What the App Does* 
+## *What the App Does* 
 
 Pakistan AI Explorer allows users to:
 
@@ -26,10 +26,10 @@ View travel statistics and destination insights
 Save travel preferences
 
 
-The application combines destination discovery, budget estimation, and itinerary generation into one platform.
+### The application combines destination discovery, budget estimation, and itinerary generation into one platform.
 
 
- *Real Problem It Solves* 
+ ## *Real Problem It Solves* 
 
 Planning a trip in Pakistan often requires searching multiple websites for destination information, travel costs, routes, and activities.
 
@@ -46,7 +46,7 @@ Personalized itineraries
 
 in a single platform.
 
- *Target Users* 
+## *Target Users* 
 
 Students
 
@@ -59,23 +59,23 @@ Travel enthusiasts
 First-time travelers in Pakistan
 
 
- *Live Application* 
+ ## *Live Application* 
 
 Live Deployed URL
 
-Live App: https://explore-pakistan-ai.vercel.app/
+### Live App: https://explore-pakistan-ai.vercel.app/
 
 
- *GitHub Repository* 
+### *GitHub Repository* 
 
 Public Repository
 
-GitHub: https://github.com/seharareej792-boop/Pakistan-AI-Explorer.git
+### GitHub: https://github.com/seharareej792-boop/Pakistan-AI-Explorer.git
 
 
- *Features* 
+## *Features* 
 
- *Home Page* 
+### *Home Page* 
 
 Modern landing page
 
@@ -84,7 +84,7 @@ Pakistan tourism overview
 Quick navigation to all modules
 
 
- *Explore Destinations* 
+ ### *Explore Destinations* 
 
 Search destinations by name
 
@@ -98,7 +98,7 @@ Travel budget display
 
 Best season information
 
- *AI Trip Planner* 
+### *AI Trip Planner* 
 
  *Users can:* 
 
@@ -130,7 +130,7 @@ Food
 Adventure
 
 
- *The system generates:* 
+ ##### *The system generates:* 
 
 Day-wise itinerary
 
@@ -141,7 +141,7 @@ Activity suggestions
 Travel recommendations
 
 
- *Travel Cost Calculator* 
+### *Travel Cost Calculator* 
 
 Provides estimates for:
 
@@ -156,7 +156,7 @@ Miscellaneous expenses
 Total trip budget
 
 
- *Hidden Gems Explorer* 
+### *Hidden Gems Explorer* 
 
 Discover lesser-known locations across Pakistan including:
 
@@ -170,7 +170,7 @@ Cultural destinations
 
 Travel Statistics Dashboard
 
- *Displays:* 
+#### *Displays:* 
 
 Total destinations covered
 
@@ -180,7 +180,7 @@ Average travel budgets
 
 Popular destinations
 
- *User Profile* 
+### *User Profile* 
 
 Users can:
 
@@ -191,7 +191,7 @@ Set interests
 Configure travel styles
 
 
- *AI Feature* 
+## *AI Feature* 
 
 AI-Powered Travel Planner
 
@@ -212,7 +212,7 @@ Travel style
 Interests
 
 
-AI Output
+### AI Output
 
  *The planner generates* :
 
@@ -229,11 +229,11 @@ Cost estimates
 Travel schedule
 
 
- *AI System Prompt / Instructions* 
+## *AI System Prompt / Instructions* 
 
 You are a Pakistan travel planning assistant.
 
- *Generate a realistic day-wise travel itinerary based on:* 
+#### *Generate a realistic day-wise travel itinerary based on:* 
 
 - Starting city
 - Destination
@@ -242,7 +242,7 @@ You are a Pakistan travel planning assistant.
 - Travel style
 - User interests
 
- *Rules:* 
+ #### *Rules:* 
 
 1. Keep recommendations relevant to Pakistan.
 2. Respect the user's budget.
@@ -254,7 +254,7 @@ You are a Pakistan travel planning assistant.
 
 
 
- *Tools, Services and AI Models Used* 
+## *Tools, Services and AI Models Used* 
 
 Development Tools
 
@@ -286,13 +286,13 @@ Version Control
 GitHub
 
 
- *AI Technology* 
+### *AI Technology* 
 
 Custom AI itinerary generation prompt
 
 AI-powered travel recommendation workflow
 
- *How to Run the Project* 
+## *How to Run the Project* 
 
  *1. Clone the Repository* 
 
@@ -315,7 +315,7 @@ npm run dev
 npm run build
 
 
- *Project Structure* 
+ ## *Project Structure* 
 
 Pakistan AI Explorer
 │
@@ -330,7 +330,7 @@ Pakistan AI Explorer
 
 
 
- *Future Improvements* 
+## *Future Improvements* 
 
 Real-time weather integration
 
@@ -345,9 +345,9 @@ Multi-language support
 Advanced AI recommendation 
 
 
-Pakistan AI Explorer — Discover Pakistan smarter with AI-powered travel planning. 🇵🇰✨
+#### Pakistan AI Explorer — Discover Pakistan smarter with AI-powered travel planning. 🇵🇰✨
 
-Application Screenshots:
+## Application Screenshots:
 1. Home Page
 <img width="1468" height="627" alt="image" src="https://github.com/user-attachments/assets/4003f1cd-2dbc-4d91-ac7c-cb75a10248be" />
 
@@ -375,11 +375,11 @@ Application Screenshots:
    <img width="1488" height="590" alt="image" src="https://github.com/user-attachments/assets/a3b2c6d8-3b91-49bf-bccd-a54e94688691" />
 
  
-Conclusion
+#### Conclusion
 
 Pakistan AI Explorer is a complete travel planning application that helps users discover destinations, estimate costs, and generate personalized AI-powered travel plans. The project demonstrates frontend development, deployment, AI integration, and practical problem-solving in a real-world tourism use case.
 
- Developed By
+ ### Developed By
  
 Areej
 
